@@ -3,7 +3,7 @@
 /*
   Location lookup
 */
-function getGpsZip() {
+function getGpsZip(zip) {
   /*
     Lookup in DAWA and return result based on zip.
 
